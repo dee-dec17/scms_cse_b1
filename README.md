@@ -11,3 +11,7 @@ Python notebook : https://colab.research.google.com/drive/1JfNLkt5tQJI2bYh3AyvIl
 2. Write a program that convertes a given number of days into year, weeks, and days.
 3. Implement a program that swaps the values of two variables.
 4. Implement a function to check if a given year is a leap year or not.
+
+24-06-24
+1. https://leetcode.com/problems/score-of-a-string/description/
+2. https://leetcode.com/problems/find-the-difference/description/?envType=study-plan-v2&envId=programming-skills
