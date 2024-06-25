@@ -15,3 +15,10 @@ Python notebook : https://colab.research.google.com/drive/1JfNLkt5tQJI2bYh3AyvIl
 24-06-24
 1. https://leetcode.com/problems/score-of-a-string/description/
 2. https://leetcode.com/problems/find-the-difference/description/?envType=study-plan-v2&envId=programming-skills
+
+25-06-24
+1. https://leetcode.com/problems/two-sum/description/
+2. https://leetcode.com/problems/number-of-good-pairs/description/
+3. https://leetcode.com/problems/concatenation-of-array/description/
+4. Write a program to check if a number is prime.
+5. WAP to print fibonacci series.
