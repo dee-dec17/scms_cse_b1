@@ -22,3 +22,14 @@ Python notebook : https://colab.research.google.com/drive/1JfNLkt5tQJI2bYh3AyvIl
 3. https://leetcode.com/problems/concatenation-of-array/description/
 4. Write a program to check if a number is prime.
 5. WAP to print fibonacci series.
+
+26-06-24
+1. https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
+2. https://leetcode.com/problems/number-of-good-pairs/description/
+3. https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/
+4. https://leetcode.com/problems/jewels-and-stones/description/
+5. https://leetcode.com/problems/shuffle-the-array/description/
+6. https://leetcode.com/problems/find-words-containing-character/description/
+7. https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/
+8. https://leetcode.com/problems/richest-customer-wealth/description/
+   
